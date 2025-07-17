@@ -42,5 +42,12 @@ Complete info about them and how to earn it: [here](https://x.com/deepugami/stat
 
 ---
 
+## 5. Kaito x Boundless  
+**Cost:** Free
+
+Complete info about Boundless leaderboard is [here](https://x.com/boundless_xyz/status/1935731068260233413)
+
+---
+
 ⭐ **Star this repo** for future updates.  
 I'll keep updating it as more tasks go online.
