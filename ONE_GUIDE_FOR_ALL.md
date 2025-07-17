@@ -5,7 +5,7 @@
 ## 1. Boost the Signal  
 **Cost:** Free
 
-Just skip the $6 if you don't have funds. For Bronze tier, you can complete other social tasks.
+Just skip the $6 task if you don't have funds. For Bronze tier, you can complete other social tasks.
 
 👉 [Link to Signal Boost Rewards](https://signal.beboundless.xyz/rewards)
 
@@ -31,7 +31,7 @@ You can choose any of the following guides:
 - [Mztacat's Simplified Guide](https://github.com/mztacat/Boundless-Simplified-Guide)
 
 **Guides by:** `0xmoei`, `Zunxbt`, `Mztacat`  
-Take a look at each one and follow whichever you find easiest to understand.
+Take a look at each one of them and follow whichever you find easiest to understand.
 
 ---
 
