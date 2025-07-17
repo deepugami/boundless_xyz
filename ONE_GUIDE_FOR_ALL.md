@@ -1,29 +1,39 @@
-**ONE GUIDE FOR EVERYTHING YOU CAN DO ON BOUNDLESS PROTOCOL**
+# **ONE GUIDE FOR EVERYTHING YOU CAN DO ON BOUNDLESS PROTOCOL**
 
-*1. Boost the signal*
-->>Cost: Free
+---
 
-Just skip the $6 if you don't have funds. For bronze tier you can complete other social tasks.
+## 1. Boost the Signal  
+**Cost:** Free
 
-Link: signal.beboundless.xyz/rewards
------------------------
-*2. Prover & Dev Role on Discord*
-->>Cost: Almost free
+Just skip the $6 if you don't have funds. For Bronze tier, you can complete other social tasks.
 
-Go to https://boundless-stake.vercel.app/ 
--Stake small amount of $USDC
--Stake small amount of $ETH
-------------------------
-*3. Run Prover*
-->>Cost: Requires investment on GPUs.
+👉 [Link to Signal Boost Rewards](https://signal.beboundless.xyz/rewards)
 
-You can choose any of these guides:
--https://github.com/0xmoei/boundless
--https://github.com/zunxbt/boundless-prover
--https://github.com/mztacat/Boundless-Simplified-Guide
+---
 
-Guides by: 0xmoei, Zunxbt, Mztacat. 
-Take a look at each one of them and follow whichever seems easiest to understand.
-------------------------
+## 2. Get the Prover & Dev Role on Discord  
+**Cost:** Almost free
 
-Star this for future updates. I'll updates it as more tasks are online.
+Go to: [https://boundless-stake.vercel.app/](https://boundless-stake.vercel.app/)
+
+- Stake a small amount of **$USDC**
+- Stake a small amount of **$ETH**
+
+---
+
+## 3. Run a Prover Node  
+**Cost:** Requires investment in GPUs
+
+You can choose any of the following guides:
+
+- [0xmoei's Boundless Guide](https://github.com/0xmoei/boundless)
+- [Zunxbt's Boundless Prover Guide](https://github.com/zunxbt/boundless-prover)
+- [Mztacat's Simplified Guide](https://github.com/mztacat/Boundless-Simplified-Guide)
+
+**Guides by:** `0xmoei`, `Zunxbt`, `Mztacat`  
+Take a look at each one and follow whichever you find easiest to understand.
+
+---
+
+⭐ **Star this repo** for future updates.  
+I'll keep updating it as more tasks go online.
