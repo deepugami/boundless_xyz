@@ -35,5 +35,12 @@ Take a look at each one and follow whichever you find easiest to understand.
 
 ---
 
+## 4. Discord Roles (Proven berry & Baby berry)  
+**Cost:** Free
+
+Complete info about them and how to earn it: [here](https://x.com/deepugami/status/1939387338812973063/photo/1)
+
+---
+
 ⭐ **Star this repo** for future updates.  
 I'll keep updating it as more tasks go online.
